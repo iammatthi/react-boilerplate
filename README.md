@@ -1,6 +1,6 @@
 # React Boilerplate (TypeScript)
 
-This React Boilerplate use TypeScript.
+This React Boilerplate uses TypeScript.
 
 The boilerplate has the following packages already configured:
 - eslint (linter)
