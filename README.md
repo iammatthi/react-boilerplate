@@ -1,6 +1,8 @@
-# React Boilerplate
+# React Boilerplate (TypeScript)
 
-This react boilerplate has the following packages already configured:
+This React Boilerplate use TypeScript.
+
+The boilerplate has the following packages already configured:
 - eslint (linter)
 - husky
 - lint-staged
