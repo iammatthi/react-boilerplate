@@ -17,7 +17,14 @@ There is a vscode configuration that formats the code on save using the followin
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 
-# Installation
-Install all dependencies
-`npm install`
+## Installation
+Install all dependencies:
+```
+npm install
+```
+
+## Run development server
+```
+npm run start
+```
 
